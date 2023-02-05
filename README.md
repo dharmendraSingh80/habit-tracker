@@ -33,7 +33,10 @@ A habit tracker application to track our daily routines and a detail list to ove
 - - package.json
 - - README.md
 
-# screenshots
+# Hosted Link
+https://dharmendrasingh80.github.io/habit-tracker/
+
+# Screenshots
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/114590452/216835821-80609f67-b438-4e70-a284-f74ea38839ff.png)
 ![Screenshot (9)](https://user-images.githubusercontent.com/114590452/216835867-abb2272b-1c1c-4217-8b15-c1924cc991f3.png)
