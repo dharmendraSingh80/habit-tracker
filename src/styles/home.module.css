@@ -1,0 +1,19 @@
+ /* styles for Home component */
+ .subTitle {
+     font-size: 3rem;
+     text-shadow: 1px 1px 5px rgb(117, 105, 105);
+ }
+
+ label {
+     font-weight: bold;
+ }
+
+ .main_div {
+     border-style: ridge;
+     margin-left: 12%;
+     margin-right: 12%;
+ }
+
+ i:hover {
+     cursor: pointer;
+ }

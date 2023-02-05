@@ -1,0 +1,52 @@
+/* styles for Habits component */
+.Title {
+    text-shadow: 1px 1px 5px rgb(117, 105, 105);
+}
+
+table {
+    width: 100%;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+td,
+th {
+    background-color: lightcyan;
+}
+
+.taskname {
+    width: 100%;
+    background-color: lightblue;
+}
+
+
+table {
+    text-align: center;
+}
+
+
+.details {
+    display: inline-block;
+    width: 100%;
+}
+
+.today {
+    background-color: cadetblue;
+}
+
+.habit_name {
+    font-size: large;
+    font-weight: bold;
+}
+
+.main_div {
+    border-style: ridge;
+    margin-left: 12%;
+    margin-right: 12%;
+    padding: 10px;
+    border-radius: 10px;
+}
