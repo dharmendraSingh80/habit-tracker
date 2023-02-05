@@ -6,7 +6,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-secondary">
         <div className="container-fluid">
-          <Link className="navbar-brand " to="/">
+          <Link className="navbar-brand " to="/habit-tracker">
             <i className="fa-solid fa-person-walking"></i> HabitTracker
           </Link>
           <button

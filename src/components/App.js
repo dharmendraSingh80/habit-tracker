@@ -15,7 +15,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/habit-tracker" element={<Home />} />
           <Route path="/habits" element={<Habits />} />
         </Routes>
       </Router>
